@@ -1,6 +1,6 @@
 # RafaelDaSilva1984 - Jr Developer,  Apaixonado por TI e entusiasta com PROGRAMAÇÂO...
 
-Olá! 🌐 👋 
+Hello World! 🌐 👋 
 
 ## Áreas de Estudo
 - 🔭 Atualmente estou estudando e me aperfeiçoando em: 
