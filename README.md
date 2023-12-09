@@ -28,7 +28,7 @@ Pitão JavaScript HTML5 CSS3 Git PostgreSQL MySQL
 
 ## Contato
 
-- 📧 E-mail: [rfsrafaelsilva@gmail.com](https://mail.google.com/mail/u/0/#inbox)
+- 📧 E-mail: rfsrafaelsilva@gmail.com e ou rfsrafaelsilva@icloud.com
 
 - <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="LinkedIn" width="30" height="30"/> LinkedIn: [Rafael no LinkedIn](https://www.linkedin.com/in/rafael-d-62a7a81a6/) <br>
   
