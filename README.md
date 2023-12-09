@@ -9,7 +9,7 @@ Hello World! 🌐 👋
 
 ## Colaboração
 - 👯 Aberto para colaborar, especialmente com meus conhecimentos em Python.
-- 🤔 Gostaria de desenvolver com as bibliotecas Pandas, Numpy.
+- 🤔 Gostaria de me desenvolver com as bibliotecas Pandas, Numpy.
 
 ## Interesses Pessoais
 - ⚡ Gosto muito de Jogar FORTNITE e curtir minha Família: Esposa e meus Dog's.
