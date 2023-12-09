@@ -4,7 +4,7 @@ Hello World! 🌐 👋
 
 ## Áreas de Estudo
 - 🔭 Atualmente estou estudando e me aperfeiçoando em: 
-- 🌱 BACKEND na linguagem Python, MySql e PostegreSql para DADOS.
+- 🌱 BACKEND na linguagem Python, MySql e PostgreSql para DADOS.
 - 🌐 FRONTEND: JS, Css e Html.
 
 ## Colaboração
