@@ -1,11 +1,11 @@
-# RafaelDaSilva1984 - Jr Developer,  Apaixonado por TI e entusiasta com PROGRAMAÇÂO...
+# RafaelDaSilva1984 - Jr Developer, PROGRAMAÇÂO para RESOLUÇÂO DE PROBLEMAS com raciocínio lógico...
 
 Hello World! 🌐 👋 
 
 ## Áreas de Estudo
 - 🔭 Atualmente estou estudando e me aperfeiçoando em: 
-- 🌱 BACKEND na linguagem Python, MySql e PostgreSql para DADOS.
-- 🌐 FRONTEND: JS, Css e Html.
+- 🌱 BACKEND na linguagem Python, MySql e PostgreSql para DADOS na Cubos Academy . Java e Spring na Alura e Oracle.
+- 🌐 FRONTEND: Introdutório com JS, Css e Html.
 
 ## Colaboração
 - 👯 Aberto para colaborar, especialmente com meus conhecimentos em Python.
@@ -15,7 +15,7 @@ Hello World! 🌐 👋
 - ⚡ Gosto muito de Jogar FORTNITE e curtir minha Família: Esposa e meus Dog's.
 
 ## Tecnologias
-Pitão,JavaScript, HTML5, CSS3, Git, PostgreSQL, MySQL, Linux
+Pythont,Java,JavaScrip - HTML5, CSS3, Git, PostgreSQL, MySQL,Spring e Linux
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
