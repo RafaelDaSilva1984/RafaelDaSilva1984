@@ -4,8 +4,8 @@ Hello World! 🌐 👋
 
 ## Áreas de Estudo
 - 🔭 Atualmente estou estudando e me aperfeiçoando em: 
-- 🌱 BACKEND na linguagem Python, MySql e PostgreSql para DADOS na Cubos Academy . Java e Spring na Alura e Oracle.
-- 🌐 FRONTEND: Introdutório com JS, Css e Html.
+- 🌱 BACKEND na linguagem Python, MySql e PostgreSql para DADOS na Cubos Academy .
+
 
 ## Colaboração
 - 👯 Aberto para colaborar, especialmente com meus conhecimentos em Python.
@@ -19,7 +19,6 @@ Pythont,Java,JavaScrip - HTML5, CSS3, Git, PostgreSQL, MySQL,Spring e Linux
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/git/git-original.svg" alt="Git" width="30" height="30">
