@@ -23,7 +23,8 @@ Pythont,Java,JavaScrip - HTML5, CSS3, Git, PostgreSQL, MySQL,Spring e Linux
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/linux/linux-original.svg" alt="Linux" width="30" height="30">
-   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/spring/spring-original.svg" alt="SpringBoot" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/spring/spring-original.svg" alt="SpringBoot" width="30" height="30"/>
+
 </p>
 
 ## Contato
