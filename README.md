@@ -3,8 +3,8 @@
 Hello World! 🌐 👋 
 
 ## Áreas de Estudo
-- 🔭 Atualmente estou estudando e me aperfeiçoando em: 
-- 🌱 BACKEND na linguagem Python, MySql e PostgreSql para DADOS na Cubos Academy .
+- 🌱 BACKEND na linguagem Python, MySql e PostgreSql para DADOS na Cubos Academy . 
+- 🌱 BACKEND na linguagem Java, com Spring, na DIO .
 
 
 ## Colaboração
