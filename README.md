@@ -19,13 +19,11 @@ Pythont,Java,JavaScrip - HTML5, CSS3, Git, PostgreSQL, MySQL,Spring e Linux
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/git/git-original.svg" alt="Git" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/linux/linux-original.svg" alt="Linux" width="30" height="30">
+   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/springboot/springboot-original.svg" alt="SpringBoot" width="30" height="30"/>
 </p>
 
 ## Contato
