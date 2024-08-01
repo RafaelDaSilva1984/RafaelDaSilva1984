@@ -18,7 +18,7 @@ Hello World! 🌐 👋
 Pythont,Java,JavaScrip - HTML5, CSS3, Git, PostgreSQL, MySQL,Spring e Linux
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/python/python-original.svg" alt="Java" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/html5/html5-original.svg" alt="HTML5" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/css3/css3-original.svg" alt="CSS3" width="30" height="30">
