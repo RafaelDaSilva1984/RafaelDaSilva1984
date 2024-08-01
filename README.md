@@ -15,7 +15,7 @@ Hello World! 🌐 👋
 - ⚡ Gosto muito de Jogar FORTNITE e curtir minha Família: Esposa e meus Dog's.
 
 ## Tecnologias
-Pythont,Java,JavaScrip - HTML5, CSS3, Git, PostgreSQL, MySQL,Spring e Linux
+Pythont,Java,Git, PostgreSQL, MySQL,Spring e Linux
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
