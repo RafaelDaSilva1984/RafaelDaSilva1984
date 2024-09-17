@@ -3,8 +3,9 @@
 Hello World! 🌐 👋 
 
 ## Áreas de Estudo
-- 🌱 BACKEND na linguagem Python, MySql e PostgreSql para DADOS na Cubos Academy . 
-- 🌱 BACKEND na linguagem Java, com Spring, na DIO .
+- 🌱 BACKEND na linguagem Python, MySql e PostgreSql para DADOS na Cubos Academy .
+- 🌱 BACKEND na linguaggem Golang, com Aprenda Go, com V. Körbes.
+
 
 
 ## Colaboração
@@ -18,12 +19,12 @@ Hello World! 🌐 👋
 Pythont,Java,Git, PostgreSQL, MySQL,Spring e Linux
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/golang/golang-original.svg" alt="Golang" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/git/git-original.svg" alt="Git" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/linux/linux-original.svg" alt="Linux" width="30" height="30">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="SpringBoot" width="30" height="30"/>
+
 
 
 </p>
