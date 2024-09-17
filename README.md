@@ -16,7 +16,7 @@ Hello World! 🌐 👋
 - ⚡ Gosto muito de Jogar FORTNITE e curtir minha Família: Esposa e meus Dog's.
 
 ## Tecnologias
-Pythont,Java,Git, PostgreSQL, MySQL,Spring e Linux
+Pythont,Golang,Git, PostgreSQL, MySQL e Linux
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/golang/golang-original.svg" alt="Golang" width="30" height="30"/>
