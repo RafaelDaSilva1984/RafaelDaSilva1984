@@ -4,19 +4,23 @@ Hello World! 🌐 👋
 
 ## Áreas de Estudo
 - 🌱 BACKEND na linguagem Python, MySql e PostgreSql para DADOS na Cubos Academy .
-- 🌱 BACKEND na linguaggem Golang, com Aprenda Go, com V. Körbes.
+- 🌱 BACKEND na linguagem Golang, com School Aprenda Go, com V. Körbes.
 
 
 
 ## Colaboração
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
 - 👯 Aberto para colaborar, especialmente com meus conhecimentos em Python.
 - 🤔 Gostaria de me desenvolver com as bibliotecas Pandas, Numpy.
+  
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/go/go-original.svg" alt="Golang" width="30" height="30">
+- 🤔 Gostaria de participar de Projetos em Golang, no qual tem espaço para Devs JR.
 
 ## Interesses Pessoais
 - ⚡ Gosto muito de Jogar FORTNITE e curtir minha Família: Esposa e meus Dog's.
 
 ## Tecnologias
-Pythont,Golang,Git, PostgreSQL, MySQL e Linux
+Python,Golang,Git, PostgreSQL, MySQL e Linux
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/go/go-original.svg" alt="Golang" width="30" height="30">
