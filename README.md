@@ -10,11 +10,13 @@ Hello World! 🌐 👋
 
 ## Colaboração
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
+
 - 👯 Aberto para colaborar, especialmente com meus conhecimentos em Python.
 - 🤔 Gostaria de me desenvolver com as bibliotecas Pandas, Numpy.
   
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/go/go-original.svg" alt="Golang" width="30" height="30">
-- 🤔 Gostaria de participar de Projetos em Golang, no qual tem espaço para Devs JR.
+
+- 🤔 Gostaria de participar de Projetos em Golang, no qual tenham espaço para Devs JR, como muita vontade de aprender e auxiliar.
 
 ## Interesses Pessoais
 - ⚡ Gosto muito de Jogar FORTNITE e curtir minha Família: Esposa e meus Dog's.
