@@ -6,7 +6,7 @@ Sou: Rafael da Silva
 ## Áreas de Estudo
 
 - 🌱 BACKEND na linguagem Python, MySql e PostgreSql para DADOS na Cubos Academy .
-- 🌱 BACKEND na linguagem Golang, com School Aprenda Go, com V. Körbes.
+- 🌱 BACKEND na linguagem Golang, com School Aprenda Go, com V. Körbes (ellen korbes).
 - 
 
 ## Colaboração
