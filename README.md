@@ -5,14 +5,15 @@ Sou: Rafael da Silva
 
 ## Áreas de Estudo
 
-- 🌱 BACKEND na linguagem Python, MySql e PostgreSql para DADOS na Cubos Academy .
-- 🌱 BACKEND na linguagem Golang, com School Aprenda Go, com V. Körbes (ellen korbes).
-- 
+- 🌱 BANCO DE DADOS:  PostgreSql para ANALISE de DADOS - Udemy .
+- 🌱 BACKEND:  na linguagem Golang, com School Aprenda Go, com V. Körbes (ellen korbes).
+- 🌱 BACKEND:  na linguagem Python,ANALISE de DADOS - Cubos Academy.
+
 
 ## Colaboração
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
 
-- 👯 Aberto para colaborar, especialmente com meus conhecimentos em Python.
+- 👯 Aberto para colaborar, especialmente com meus conhecimentos em Python, Golang.
 - 🤔 Gostaria de me desenvolver com as bibliotecas Pandas, Numpy.
   
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/go/go-original.svg" alt="Golang" width="30" height="30">
