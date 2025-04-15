@@ -7,7 +7,7 @@ Sou: Rafael da Silva
 
 - 🌱 BANCO DE DADOS:  PostgreSql para ANALISE de DADOS - Udemy .
 - 🌱 BACKEND:  na linguagem Golang, com School Aprenda Go, com V. Körbes (ellen korbes).
-- 🌱 BACKEND:  na linguagem Python,ANALISE de DADOS - Cubos Academy.
+- 🌱 BACKEND:  na linguagem Python,ANALISE de DADOS - Data Viking.
 
 
 ## Colaboração
