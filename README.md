@@ -14,10 +14,7 @@ Sou: Rafael da Silva
 
 - 👯 Aberto para colaborar, especialmente com meus conhecimentos em Python, Golang.
 - 🤔 Gostaria de me desenvolver com as bibliotecas Pandas, Numpy.
-  
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/go/go-original.svg" alt="Golang" width="30" height="30">
 
-- 🤔 Gostaria de participar de Projetos em Golang, no qual tenham espaço para Devs JR, como muita vontade de aprender e auxiliar.
 
 ## Interesses Pessoais
 - Games como FORTNITE e Principalmente curtir minha Família: Esposa e meus Dog's.
