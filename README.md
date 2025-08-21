@@ -6,7 +6,6 @@ Sou: Rafael da Silva
 ## Áreas de Estudo
 
 - 🌱 BANCO DE DADOS:  PostgreSql para ANALISE de DADOS - Udemy .
-- 🌱 BACKEND:  na linguagem Golang, com School Aprenda Go, com V. Körbes (ellen korbes).
 - 🌱 BACKEND:  na linguagem Python,ANALISE de DADOS - Data Viking.
 
 
@@ -28,7 +27,6 @@ Python,Golang,Git, PostgreSQL, MySQL e Linux
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/go/go-original.svg" alt="Golang" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/git/git-original.svg" alt="Git" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30">
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/mysql/mysql-original.svg" alt="MySQL" width="30" height="30">
