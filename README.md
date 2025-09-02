@@ -16,8 +16,13 @@ Sou um apaixonado por **programação, back-end e análise de dados**, sempre em
 ## 🤝 Colaboração
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/python/python-original.svg" alt="Python" width="30" height="30"/>  
 
-- Aberto para colaborar em projetos com **Python** e **Golang**.  
-- Interessado em fortalecer habilidades em **Pandas**, **NumPy** e soluções de **Data Engineering**.  
+- Aberto para colaborar em projetos com **Python** .  
+- Interessado em fortalecer habilidades em **Pandas**, **NumPy** e soluções de **Data Engineering**.
+
+- <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/javascript/javascript-original.svg" alt="Javascript" width="30" height="30"/>  
+
+- Aberto para colaborar em projetos com **JavaScript, Html e Csss** .  
+- Interessado em fortalecer habilidades em **Frontend**, **Web Pages** e soluções de **responsividade e acessibilidade em pages**.  
 
 ---
 
