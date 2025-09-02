@@ -34,6 +34,7 @@ Sou um apaixonado por **programação, back-end e análise de dados**, sempre em
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/html5/html5-original.svg" alt="Html" width="40" height="40"/>
 </p>
 
 ---
