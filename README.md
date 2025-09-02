@@ -14,13 +14,14 @@ Sou um apaixonado por **programação, back-end e análise de dados**, sempre em
 ---
 
 ## 🤝 Colaboração
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/python/python-original.svg" alt="Python" width="30" height="30"/>  
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
 
 - Aberto para colaborar em projetos com **Python** .  
 - Interessado em fortalecer habilidades em **Pandas**, **NumPy** e soluções de **Data Engineering**.
 
 <p align="left">
-<img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/javascript/javascript-original.svg" alt="Javascript" width="30" height="30"/>  
+  
+<img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>  
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/html5/html5-original.svg" alt="Html" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.0/icons/css3/css3-original.svg" alt="Css" width="40" height="40"/>
 
