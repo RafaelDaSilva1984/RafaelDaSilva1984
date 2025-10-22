@@ -7,7 +7,7 @@ Sou um apaixonado por **programação, back-end e análise de dados**, sempre em
 ---
 
 ## 🎓 Formação & Estudos
-- 📚 **Front-end (HTML, CSS, JavaScript)** – Origamid (164 aulas | 23 horas).  
+- 📚 **Front-end (HTML, CSS, JavaScript)** – Origamid (164 aulas | 46 horas).  
 - 🌱 **Banco de Dados** – PostgreSQL para Análise de Dados (Udemy).  
 - 🐍 **Back-end em Python** – Cubos Academy e Data Science Academy (Análise de Dados).  
 
