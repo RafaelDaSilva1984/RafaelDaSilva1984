@@ -19,8 +19,9 @@ Estou focado em desenvolvimento back-end com Python e em automação de dados pa
 ---
 
 ## 📂 Projetos em Destaque
-### 🔹 Análise de Dados – Projeto com Pandas
+### 🔹 Análise de Dados 
 Repositório com scripts de limpeza e análise de dados reais.
+https://github.com/RafaelDaSilva1984/Analise-cnpjs-via-gov-buscando-dados-das-empresas-lucro-real.git
 
 ### 🔹 Comandos Básicos SQL
 Consultas e exemplos práticos de SQL para manipular dados.
