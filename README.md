@@ -1,5 +1,5 @@
 # 👋 Olá! Eu sou o Rafael Silva  
-### 💻 Desenvolvedor Jr em Back-end & Análise de Dados  
+### 💻 Análise de Dados Jr &  Desenvolvedor Jr em Back-end.
 **Python, SQL, Power BI, Automação & APIs**
 
 ---
